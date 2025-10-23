@@ -1,6 +1,6 @@
-# Hangman Game — CodeAlpha 
+# Hangman Game - Project
 
-A simple text-based Hangman game made in Python for my CodeAlpha .
+A simple text-based Hangman game made in Python .
 
 ## Features
 - Player guesses a word one letter at a time.
